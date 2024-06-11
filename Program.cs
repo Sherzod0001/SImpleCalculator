@@ -38,12 +38,12 @@ while (true)
 
     if (answer.ToLower() != "y")
     {   
-        Console.WriteLine("Thank you for using the programm 🤝");
+        Console.WriteLine("Thank you for using the programm bro 🤝");
         break;
     }
     else
     {
-        Console.WriteLine("Let's continue  🤝");
+        Console.WriteLine("Let's continue bro 🤝");
     }
 }
 
@@ -92,6 +92,6 @@ static void PrintText(string message)
 
 static void GetExceptionMessage()
 {
-    Console.WriteLine("The value you entered cannot be converted to a number !");
-    Console.WriteLine("Please enter a number !");
+    Console.WriteLine("The value you entered cannot be converted to a number bro!");
+    Console.WriteLine("Please enter a number bro!");
 }
